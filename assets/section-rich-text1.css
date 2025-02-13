@@ -1,29 +1,29 @@
-.rich-text>*:not(:first-child) {
+.rich-text1>*:not(:first-child) {
   margin-top: 1.8rem;
 }
 
-.rich-text__alignement--left {
+.rich-text1__alignement--left {
   text-align: left;
 }
 
-.rich-text__alignement--left .button__container {
+.rich-text1__alignement--left .button__container {
   width: fit-content;
 }
 
-.rich-text__alignement--center {
+.rich-text1__alignement--center {
   text-align: center;
 }
 
-.rich-text__alignement--center .heading::after {
+.rich-text1__alignement--center .heading::after {
   left: 50%;
   transform: translateX(-50%);
 }
 
-.rich-text__alignement--right {
+.rich-text1__alignement--right {
   text-align: right;
 }
 
-.rich-text__alignement--right .heading::after {
+.rich-text1__alignement--right .heading::after {
   left: auto;
   right: 0;
 }

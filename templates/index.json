@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -6,9 +15,10 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/freepik-projet-sans-titre-20250213205526RSQr.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
             "subheading": "Tell your story",
             "title": "Slide title",
             "heading_tag": "h0",
@@ -18,46 +28,139 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-1"
       ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "auto",
+        "show_initial_transition": false,
+        "image_size": "fill",
         "controls_type": "numbers",
         "transition_type": "fade_with_text",
         "autoplay": true,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "rich_text_wD6DkA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_EYnqJG": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_nF6gGg": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_QaDNhU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EYnqJG",
+        "heading_nF6gGg",
+        "richtext_QaDNhU"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "custom_html_BNyzXL": {
+      "type": "custom-html",
+      "custom_css": [],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<section id=\"shopify-section-custom-style\" class=\"shopify-section section\">\n  <style>\n    .custom-section-padding {\n      padding-top: 0 !important; /* Supprime la marge en haut */\n      padding-bottom: 0 !important; /* Supprime la marge en bas */\n      display: flex !important;\n      flex-direction: column !important; /* Assure que les éléments sont en colonne */\n      align-items: center !important; /* Centre le contenu horizontalement */\n      justify-content: center !important; /* Centre le contenu verticalement */\n      text-align: center !important; /* Centre les textes */\n    }\n\n    @media screen and (min-width: 750px) {\n      .custom-section-padding {\n        padding-top: 0 !important;\n        padding-bottom: 0 !important;\n      }\n    }\n\n    .heading__section p {\n      color: #d0e5d5 !important; /* Couleur de la marque */\n      font-size: 18px !important; /* Taille du texte de la marque */\n      font-weight: bold !important;\n      margin: 0 !important; /* Supprime les marges */\n      padding: 0 !important; /* Supprime les paddings */\n      line-height: 0.7 !important; /* Réduit l'interligne */\n    }\n\n    .heading h2 {\n      font-size: 26px !important; /* Taille du titre */\n      font-weight: 700 !important;\n      color: #000 !important; /* Couleur du titre */\n      margin: 0 !important; /* Supprime toute marge */\n      padding: 0 !important; /* Supprime tout padding */\n      line-height: 1 !important; /* Assure que le titre reste compact */\n      width: 100% !important; /* Le titre prend toute la largeur */\n    }\n\n    .separator {\n      height: 3px !important;\n      background-color: #d0e5d5 !important; /* Couleur de la barre */\n      width: 150px !important; /* Longueur de la barre */\n      margin: 10px auto !important; /* Centre la barre */\n    }\n\n    .description p {\n      font-size: 16px !important; /* Taille du texte de la description */\n      color: #555 !important;\n      margin-top: 0 !important; /* Supprime la marge en haut */\n      width: 100% !important; /* Prend toute la largeur */\n    }\n\n    /* Adaptation pour les petits écrans */\n    @media screen and (max-width: 749px) {\n      .heading__section p {\n        font-size: 16px !important; /* Taille plus petite pour petits écrans */\n        line-height: 0.5 !important; /* Réduit l'interligne */\n      }\n\n      .heading h2 {\n        font-size: 24px !important; /* Taille du titre plus petite */\n        line-height: 1 !important; /* Assure que le titre reste compact */\n        width: 95% !important; /* Largeur ajustée */\n      }\n\n      .separator {\n        width: 130px !important; /* Ajuste la longueur de la barre */\n      }\n\n      .description p {\n        font-size: 18px !important; /* Taille plus grande de la description sur mobile */\n      }\n    }\n  </style>\n\n  <div class=\"custom-section-padding\">\n    <div class=\"rich-text container container--normal\">\n      <div class=\"header\" style=\"display: block !important;\">Meowtix™</div>\n      <div class=\"subheader\" style=\"display: block !important;\">\n        <h1>Les rouleaux qui redonnent vie à vos vêtements</h1>\n      </div>\n      <div class=\"separator\"></div>\n      <span class=\"bold-text\" style=\"display: block !important;\">\n        Ne laissez plus les poils gâcher vos tenues. Découvrez la simplicité de nos rouleaux réutilisables.\n      </span>\n    </div>\n  </div>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_KQikWA": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_qBCnxF": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+          }
+        },
+        "item_Jzmbd8": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.</p>"
+          }
+        },
+        "item_rPCeVY": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_qBCnxF",
+        "item_Jzmbd8",
+        "item_rPCeVY"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "image-link-blocks": {
@@ -215,6 +318,7 @@
       "settings": {
         "full_width": true,
         "stack_collections": false,
+        "collections_per_row_mobile": "1",
         "collections_per_row": 3,
         "show_progress_bar": false,
         "subheading": "",
@@ -233,9 +337,7 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [
-
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": false,
         "show_progress_bar": false,
@@ -310,7 +412,7 @@
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -429,6 +531,7 @@
         "full_width": true,
         "reduce_width": false,
         "desktop_row_height": 290,
+        "mobile_row_height": 150,
         "background": "",
         "background_gradient": ""
       }
@@ -438,8 +541,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before\/after",
-        "content": "<p>Showcase your product benefit by using before\/after image comparison.<\/p>",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -450,7 +553,9 @@
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff"
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     },
     "press": {
@@ -505,7 +610,7 @@
             "vertical_position_mobile": 70,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.<\/p>"
+            "content": "<p>Share useful information about your product features.</p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -517,7 +622,7 @@
             "vertical_position_mobile": 14,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.<\/p>"
+            "content": "<p>Share useful information about your product features.</p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -529,7 +634,7 @@
             "vertical_position_mobile": 75,
             "icon_width": 32,
             "title": "Feature name",
-            "content": "<p>Share useful information about your product features.<\/p>"
+            "content": "<p>Share useful information about your product features.</p>"
           }
         }
       },
@@ -569,7 +674,7 @@
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -580,7 +685,7 @@
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -606,8 +711,7 @@
       "blocks": {
         "vendor": {
           "type": "vendor",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
@@ -617,8 +721,7 @@
         },
         "badges": {
           "type": "badges",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -634,12 +737,13 @@
         },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
           "settings": {
+            "icon": "none",
+            "icon_width": 20,
             "collapse_content": false
           }
         },
@@ -650,18 +754,19 @@
             "stack_blocks": true,
             "selector_style": "block",
             "swatch_selector_style": "color",
+            "variant_image_options": "",
             "size_chart_page": ""
           }
         },
         "quantity-selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
+            "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -706,21 +811,21 @@
           "type": "item",
           "settings": {
             "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
             "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
             "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
       },
@@ -733,7 +838,7 @@
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.<\/p>",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -754,6 +859,9 @@
   },
   "order": [
     "slideshow",
+    "rich_text_wD6DkA",
+    "custom_html_BNyzXL",
+    "text_with_icons_KQikWA",
     "image-link-blocks",
     "scrolling-text",
     "collection-list",
