@@ -274,6 +274,41 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "media_with_text_BNUCwG": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_CjwdtQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/H3104ede15c7142c09c900b6c127339380.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "VOTRE SECURITE",
+            "title": "Anti-glissement",
+            "content": "<p>Nos tapis sont ultra sécurisé, aucun risque de glissement à la sortie de votre bain ou votre douche.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_CjwdtQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
@@ -281,6 +316,7 @@
     "related-products",
     "1730104165e01a34cb",
     "media_with_text_NfKgMx",
-    "media_with_text_rCkXjL"
+    "media_with_text_rCkXjL",
+    "media_with_text_BNUCwG"
   ]
 }
