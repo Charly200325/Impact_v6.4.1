@@ -29,6 +29,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_rDUmVG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L'authentique tapis de bain galet fabriqué avec passion au coeur de notre atelier, sa douceur et son moelleux vont vous faire craquer. Un bonheur sous les pieds au quotidien dont vous ne pourrez plus vous passer.</p>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -92,6 +98,7 @@
         "liquid_pfdxbN",
         "vendor",
         "title",
+        "text_rDUmVG",
         "badges",
         "price",
         "rating",
