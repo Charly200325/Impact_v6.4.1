@@ -240,6 +240,41 @@
         "spacing": "none"
       }
     },
+    "media_with_text_bAWWQK": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_MNceeb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/14fb69a0e9404140bcdca9e3fb094033.thumbnail.0000000000_small_97bcc7e9-c3f5-4d79-92ba-2522ba21cc36.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "LA NOUVELLE QUALITÉ 2025 EST DISPONIBLE",
+            "title": "VOUS N'AVEZ JAMAIS EU UN TAPIS DE BAIN AUSSI DOUX & MOELLEUX",
+            "content": "<p>Imaginez le plaisir de marcher chaque jour sur ses galets hyper doux et super moelleux qui épousent totalement la forme de votre pied. Profitez d’un véritable massage anti-stress tous les jours dans votre salle de bain.</p>",
+            "link_text": "PROFITER DE LA NOUVELLE QUALITE",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_MNceeb"
+      ],
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "media_with_text_NfKgMx": {
       "type": "media-with-text",
       "blocks": {
@@ -344,6 +379,100 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "testimonials_EcdHiq": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_gUnFGD": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_4Pe8ew": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_bXcWYx": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_gUnFGD",
+        "testimonial_4Pe8ew",
+        "testimonial_bXcWYx"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "media_with_text_f3fmaY": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_ykfMdi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/tapis-vert-eau-01-4_b04f745e-0df2-4db2-99cc-f5e82da05afe.webp",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "+ de 200 000 unités vendus depuis 2023",
+            "title": "DEMANDE DE REMBOURSEMENT : 127",
+            "content": "<h4></h4><p><strong>COMMENT ON L'EXPLIQUE ?</strong></p><p>Un tapis de bain parfait qui vous change la vie au quotidien, garantie pendant 10 ans. Une qualité luxueuse à un prix vraiment justifié et abordable pour tous. Et surtout, un confort ultime dont vous ne pourrez plus jamais vous passer.</p>",
+            "link_text": "PROFITER DE 30 JOURS D'ESSAIES",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_ykfMdi"
+      ],
+      "settings": {
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
@@ -351,8 +480,11 @@
     "related-products",
     "1730104165e01a34cb",
     "media_with_text_QpAWWe",
+    "media_with_text_bAWWQK",
     "media_with_text_NfKgMx",
     "media_with_text_rCkXjL",
-    "media_with_text_BNUCwG"
+    "media_with_text_BNUCwG",
+    "testimonials_EcdHiq",
+    "media_with_text_f3fmaY"
   ]
 }
