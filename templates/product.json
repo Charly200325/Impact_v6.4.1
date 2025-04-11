@@ -473,6 +473,30 @@
         "alternate_media_position": false,
         "spacing": "none"
       }
+    },
+    "before_after_image_mfwT4W": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "IL Y A LES IMITATIONS & L'AUTHENTIQUE",
+        "content": "<p>Glissez le curseur pour découvrir immédiatement la différence de qualité avec notre célèbre tapis de bain :</p>",
+        "after_image": "shopify://shop_images/tapis-vert-eau-01_c8909687-0351-4c0f-8c2f-f4f0b73a1ed2.webp",
+        "after_image_mobile": "shopify://shop_images/tapis-vert-eau-01_3f182f68-f209-4469-b2a1-1aee65caaa58.webp",
+        "expand_image": true,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
     }
   },
   "order": [
@@ -485,6 +509,7 @@
     "media_with_text_rCkXjL",
     "media_with_text_BNUCwG",
     "testimonials_EcdHiq",
-    "media_with_text_f3fmaY"
+    "media_with_text_f3fmaY",
+    "before_after_image_mfwT4W"
   ]
 }
