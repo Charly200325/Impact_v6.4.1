@@ -18,11 +18,6 @@
             "liquid": "<div class=\"product__content--block\" style=\"margin-bottom: 0.0rem;\">\n              \n\n\n  <meta charset=\"UTF-8\">\n  <title>Trustpilot Badge</title>\n  <style>\n    .trustpilot-container {\n      display: flex;\n      flex-direction: column; /* Permet d’empiler l’image et le texte */\n      align-items: center;    /* Centre horizontalement */\n      margin: 10px 0;        /* Marge pour aérer */\n    }\n    .trustpilot-container img {\n      width: 200px;  /* Ajustez la taille selon vos préférences */\n      height: auto;  \n      display: block;\n    }\n    .trustpilot-text {\n      text-align: center;\n      font-size: 16px;\n      margin-top: 5px;  /* Espace entre l’image et le texte */\n    }\n  </style>\n\n\n\n<div class=\"trustpilot-container\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0620/9807/9791/files/trustpilot-desktop.png?v=1741259234\" alt=\"Trustpilot\">\n  <p class=\"trustpilot-text\">4.9/5 sur 21.368 clients</p>\n</div>\n\n\n\n            </div>"
           }
         },
-        "vendor": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -35,28 +30,8 @@
             "liquid": "<div class=\"product-info__block-item\" data-block-id=\"text_9xB6gg\" data-block-type=\"text\"><style>\n              [data-block-id=\"text_9xB6gg\"] .prose {\n                text-align: center\n              }\n            </style>\n            <div class=\"product-info__text\">\n              <div class=\"prose\"><p>L'authentique tapis de bain galet fabriqué avec passion au coeur de notre atelier, sa douceur et son moelleux vont vous faire craquer. Un bonheur sous les pieds au quotidien dont vous ne pourrez plus vous passer.</p></div>\n            </div></div>"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
           "settings": {}
         },
         "liquid_jLEr4i": {
@@ -80,9 +55,20 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_style": "block",
-            "swatch_selector_style": "swatch",
+            "swatch_selector_style": "block_swatch",
             "variant_image_options": "",
             "size_chart_page": ""
+          }
+        },
+        "product_variations_gCRtyG": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "rouge",
+            "option_value_metafield": "",
+            "products": [
+              "aluminum-large-metal-tube-squeezer-mini-key-metal-tube-squeezer-roller-kit-hairdressing-hair-color-dye-hand-cream-toothpaste-104281637131-zjctl"
+            ],
+            "selector_style": "swatch"
           }
         },
         "quantity_selector": {
@@ -103,17 +89,13 @@
       },
       "block_order": [
         "liquid_pfdxbN",
-        "vendor",
         "title",
         "liquid_WEhnEY",
-        "badges",
-        "price",
-        "rating",
         "payment_terms",
-        "separator",
         "liquid_jLEr4i",
         "description",
         "variant_picker",
+        "product_variations_gCRtyG",
         "quantity_selector",
         "buy_buttons"
       ],
