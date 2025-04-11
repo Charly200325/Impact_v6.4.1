@@ -29,10 +29,10 @@
             "heading_tag": "h3"
           }
         },
-        "text_rDUmVG": {
-          "type": "text",
+        "liquid_WEhnEY": {
+          "type": "liquid",
           "settings": {
-            "text": "<p>L'authentique tapis de bain galet fabriqué avec passion au coeur de notre atelier, sa douceur et son moelleux vont vous faire craquer. Un bonheur sous les pieds au quotidien dont vous ne pourrez plus vous passer.</p>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"text_9xB6gg\" data-block-type=\"text\"><style>\n              [data-block-id=\"text_9xB6gg\"] .prose {\n                text-align: center\n              }\n            </style>\n            <div class=\"product-info__text\">\n              <div class=\"prose\"><p>L'authentique tapis de bain galet fabriqué avec passion au coeur de notre atelier, sa douceur et son moelleux vont vous faire craquer. Un bonheur sous les pieds au quotidien dont vous ne pourrez plus vous passer.</p></div>\n            </div></div>"
           }
         },
         "badges": {
@@ -105,7 +105,7 @@
         "liquid_pfdxbN",
         "vendor",
         "title",
-        "text_rDUmVG",
+        "liquid_WEhnEY",
         "badges",
         "price",
         "rating",
