@@ -1,28 +1,37 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
+        "liquid_pfdxbN": {
+          "type": "liquid",
           "settings": {
+            "liquid": "<div class=\"product__content--block\" style=\"margin-bottom: 0.0rem;\">\n              \n\n\n  <meta charset=\"UTF-8\">\n  <title>Trustpilot Badge</title>\n  <style>\n    .trustpilot-container {\n      display: flex;\n      flex-direction: column; /* Permet d’empiler l’image et le texte */\n      align-items: center;    /* Centre horizontalement */\n      margin: 10px 0;        /* Marge pour aérer */\n    }\n    .trustpilot-container img {\n      width: 200px;  /* Ajustez la taille selon vos préférences */\n      height: auto;  \n      display: block;\n    }\n    .trustpilot-text {\n      text-align: center;\n      font-size: 16px;\n      margin-top: 5px;  /* Espace entre l’image et le texte */\n    }\n  </style>\n\n\n\n<div class=\"trustpilot-container\">\n  <img src=\"https://cdn.shopify.com/s/files/1/0620/9807/9791/files/trustpilot-desktop.png?v=1741259234\" alt=\"Trustpilot\">\n  <p class=\"trustpilot-text\">4.9/5 sur 21.368 clients</p>\n</div>\n\n\n\n            </div>"
           }
         },
-        "judge_me_reviews_preview_badge_89P6VB": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
         },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h3"
           }
         },
         "badges": {
           "type": "badges",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
@@ -38,13 +47,11 @@
         },
         "payment_terms": {
           "type": "payment_terms",
-          "settings": {
-          }
+          "settings": {}
         },
         "separator": {
           "type": "separator",
-          "settings": {
-          }
+          "settings": {}
         },
         "description": {
           "type": "description",
@@ -67,8 +74,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -83,8 +89,8 @@
         }
       },
       "block_order": [
+        "liquid_pfdxbN",
         "vendor",
-        "judge_me_reviews_preview_badge_89P6VB",
         "title",
         "badges",
         "price",
@@ -118,9 +124,7 @@
       "type": "related-products",
       "settings": {
         "recommendations_count": 6,
-        "products": [
-
-        ],
+        "products": [],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": false,
@@ -140,16 +144,6 @@
     },
     "1730104165e01a34cb": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_EpNdnF": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_EpNdnF"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
