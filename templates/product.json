@@ -205,6 +205,40 @@
         "text_color": ""
       }
     },
+    "media_with_text_QpAWWe": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_63tfjy": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "UN SAVOIR-FAIRE SUISSE UNIQUE",
+            "title": "UNE QUALITÉ EXCEPTIONNELLE GARANTIE PENDANT 10 ANS",
+            "content": "<p>Depuis son atelier, La berge fabrique de A à Z le tapis de bain qui reste beau et moelleux pour toute la vie. Nous l’avons designé, conçu et fabriqué pour qu’il résiste à l’épreuve du temps et du quotidien de tout un foyer. Une qualité exceptionnelle, c’est aussi une durabilité exceptionnelle.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_63tfjy"
+      ],
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "small"
+      }
+    },
     "media_with_text_NfKgMx": {
       "type": "media-with-text",
       "blocks": {
@@ -213,7 +247,7 @@
           "settings": {
             "image": "shopify://shop_images/DeWatermark.ai_1744388630489.png",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -248,7 +282,7 @@
           "settings": {
             "image": "shopify://shop_images/H824b996664d34e69a413847b0cc4dc0cL.jpg",
             "media_width": 50,
-            "media_position": "end",
+            "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -283,8 +317,8 @@
           "settings": {
             "image": "shopify://shop_images/H3104ede15c7142c09c900b6c127339380.jpg",
             "media_width": 50,
-            "media_position": "start",
-            "text_position": "place-self-center text-center",
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "VOTRE SECURITE",
@@ -315,6 +349,7 @@
     "main",
     "related-products",
     "1730104165e01a34cb",
+    "media_with_text_QpAWWe",
     "media_with_text_NfKgMx",
     "media_with_text_rCkXjL",
     "media_with_text_BNUCwG"
