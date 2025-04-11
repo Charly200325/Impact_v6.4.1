@@ -37,7 +37,7 @@
         "liquid_jLEr4i": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"product_tag_HEUiPC\" data-block-type=\"product-tag\">\n          <div class=\"product-info__tag\">\n\n\n<style>\n    [data-block-id=\"product_tag_HEUiPC\"] {\n        margin-top: 26px;\n        margin-bottom: 26px;\n        display: flex;\n        justify-content: center\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product-info__tag {\n        display: flex;\n        justify-content: center;\n        flex-wrap: wrap;\n        gap: 7px 7px;\n        max-width: 1000px;\n        border-radius: 0.125rem;\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag {\n        display: flex;\n        font-size: 13px;\n        font-weight: 800;\n        gap: 10px;\n        align-items: center;\n        width: fit-content;\n        padding: 4px 10px;\n        border-radius: 100px;\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag--icon {\n        display: flex;\n        width: 0px;\n        height: 0px;\n    }\n\n    @media screen and (max-width: 1000px) {\n        [data-block-id=\"product_tag_HEUiPC\"] .product_tag {\n            font-size: 13px;\n            font-weight: 800;\n            gap: 10px;\n            margin-top: 1px;\n            margin-bottom: 1px;\n            padding: 4px 10px;\n        }\n\n        [data-block-id=\"product_tag_HEUiPC\"] .product-info__tag {\n        gap: 4px 4px;\n    }\n    }\n</style>\n\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-0 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-0\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                N°1 DU SAVOIR-FAIRE SUISSE\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-1 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-1\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                HYPER DOUX &amp; MOELLEUX\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-2 {\n        justify-content: center;\n        flex-direction: row;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-2\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                 ANTIDÉRAPANT\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-3 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-3\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ULTRA-ABSORBANT\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-4 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-4\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                SÈCHE TRÈS VITE\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-5 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-5\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ENTRETIEN FACILE\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-6 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-6\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ANTIBACTÉRIEN AG+\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-7 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #04193D;\n        color: #ffffff;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-7\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                GARANTIE 10 ANS\n                </div>\n            \n            </div>\n</div>\n\n          </div>"
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"product_tag_HEUiPC\" data-block-type=\"product-tag\">\n          <div class=\"product-info__tag\">\n\n\n<style>\n    [data-block-id=\"product_tag_HEUiPC\"] {\n        margin-top: 26px;\n        margin-bottom: 26px;\n        display: flex;\n        justify-content: center\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product-info__tag {\n        display: flex;\n        justify-content: center;\n        flex-wrap: wrap;\n        gap: 7px 7px;\n        max-width: 1000px;\n        border-radius: 0.125rem;\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag {\n        display: flex;\n        font-size: 13px;\n        font-weight: 800;\n        gap: 10px;\n        align-items: center;\n        width: fit-content;\n        padding: 4px 10px;\n        border-radius: 100px;\n    }\n\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag--icon {\n        display: flex;\n        width: 0px;\n        height: 0px;\n    }\n\n    @media screen and (max-width: 1000px) {\n        [data-block-id=\"product_tag_HEUiPC\"] .product_tag {\n            font-size: 13px;\n            font-weight: 800;\n            gap: 10px;\n            margin-top: 1px;\n            margin-bottom: 1px;\n            padding: 4px 10px;\n        }\n\n        [data-block-id=\"product_tag_HEUiPC\"] .product-info__tag {\n        gap: 4px 4px;\n    }\n    }\n</style>\n\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-0 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-0\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                N°1 DU SAVOIR-FAIRE SUISSE\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-1 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-1\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                HYPER DOUX &amp; MOELLEUX\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-2 {\n        justify-content: center;\n        flex-direction: row;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-2\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                 ANTIDÉRAPANT\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-3 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-3\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ULTRA-ABSORBANT\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-4 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-4\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                SÈCHE RAPIDEMENT\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-5 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193d;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-5\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ENTRETIEN FACILE\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-6 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #f4f2ef;\n        color: #04193D;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-6\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                ANTIBACTÉRIEN AG+\n                </div>\n            \n            </div>\n\n    \n    <style>\n    [data-block-id=\"product_tag_HEUiPC\"] .product_tag#product-tag-7 {\n        justify-content: center;\n        flex-direction: ;\n        background-color: #04193D;\n        color: #ffffff;\n    }\n    </style>\n    <div class=\"product_tag\" id=\"product-tag-7\">\n\n        \n        \n            <div class=\"product_tag--text\">\n                GARANTIE 10 ANS\n                </div>\n            \n            </div>\n</div>\n\n          </div>"
           }
         },
         "description": {
@@ -78,12 +78,62 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "collapsible_text_zdyBMM": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Sécurité Antidérapante",
+            "content": "<p>Avec notre technologie avvancée antidérapante, <strong>marchez en toute confiance</strong>. Notre tapis assure une stabilité sans faille pour protéger chaque membre de la famille des glissades.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_GhVWU7": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Confort Ultra-Absorbant",
+            "content": "<p><strong>Dites adieu aux sols mouillés</strong>. Notre tapis capture rapidement l'eau, gardant vos pieds au sec et votre sol impeccable.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_HebgXk": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Séchage rapide",
+            "content": "<p>La praticité rencontre le style. Non seulement notre tapis est un havre de douceur sous vos pieds, mais il se distingue aussi par sa capacité à sécher très rapidement, vous assurant une salle de bain toujours fraîche et accueillante.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_QpKVX9": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Douceur & Moelleux Extrème",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Kz7yRp": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Détails de livriason",
+            "content": "<p>Share some content to your customers about your products.</p>",
+            "page": ""
           }
         }
       },
@@ -97,7 +147,12 @@
         "variant_picker",
         "product_variations_gCRtyG",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_zdyBMM",
+        "collapsible_text_GhVWU7",
+        "collapsible_text_HebgXk",
+        "collapsible_text_QpKVX9",
+        "collapsible_text_Kz7yRp"
       ],
       "settings": {
         "full_width": true,
@@ -149,11 +204,47 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "media_with_text_NfKgMx": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_cjEdcG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/DeWatermark.ai_1744388630489.png",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "UN TAPIS ULTRA ABSORBANT",
+            "title": "Une absorption unique",
+            "content": "<p>Nous fabriquons nos tapis de bain haut de gamme depuis notre atelier avec un savoir faire unique et artisanal avec des matières durables de très hautes qualités.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_cjEdcG"
+      ],
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "1730104165e01a34cb"
+    "1730104165e01a34cb",
+    "media_with_text_NfKgMx"
   ]
 }
