@@ -235,7 +235,42 @@
         "image_cjEdcG"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_rCkXjL": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_eiNjA8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/H824b996664d34e69a413847b0cc4dc0cL.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "UN LAVAGE RAPIDE ET EFFICACE",
+            "title": "En machine",
+            "content": "<p>Notre tapis de bain n'est pas seulement un symbole de conofrt et de sécurité, mais aussi de facilité l'entretien.</p><p>Conçu pour s'adapter à votre vie active, il est entièrement lavable en machine. Après chaque lavage, votre tapis ressortira comme neuf, prêt à vous offrir douceur et sécurité.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_eiNjA8"
+      ],
+      "settings": {
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
@@ -245,6 +280,7 @@
     "main",
     "related-products",
     "1730104165e01a34cb",
-    "media_with_text_NfKgMx"
+    "media_with_text_NfKgMx",
+    "media_with_text_rCkXjL"
   ]
 }
