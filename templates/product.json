@@ -211,6 +211,7 @@
         "image_63tfjy": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/f458fd7bb0fe4ca0a3d53dab6e13f4ab.thumbnail.0000000000_small_7e074c5e-3478-418a-ab3a-9f61e2820d3b.jpg",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
@@ -234,9 +235,9 @@
         "image_63tfjy"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
-        "spacing": "small"
+        "spacing": "none"
       }
     },
     "media_with_text_NfKgMx": {
