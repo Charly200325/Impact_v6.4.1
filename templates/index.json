@@ -12,13 +12,14 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "image",
+        "video_hETFU4": {
+          "type": "video",
           "settings": {
-            "image": "shopify://shop_images/freepik-projet-sans-titre-20250213205526RSQr.png",
+            "video": "shopify://files/videos/1120.mov",
+            "mobile_video": "shopify://files/videos/1120(2).mov",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Tell your story",
             "title": "Slide title",
             "heading_tag": "h0",
@@ -28,14 +29,14 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 0,
+            "overlay_opacity": 30,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-1"
+        "video_hETFU4"
       ],
       "settings": {
         "full_width": true,
