@@ -91,19 +91,6 @@
         "text_color": ""
       }
     },
-    "custom_html_BNyzXL": {
-      "type": "custom-html",
-      "custom_css": [],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "html": "<section id=\"shopify-section-custom-style\" class=\"shopify-section section\">\n  <style>\n    .custom-section-padding {\n      padding-top: 0 !important; /* Supprime la marge en haut */\n      padding-bottom: 0 !important; /* Supprime la marge en bas */\n      display: flex !important;\n      flex-direction: column !important; /* Assure que les éléments sont en colonne */\n      align-items: center !important; /* Centre le contenu horizontalement */\n      justify-content: center !important; /* Centre le contenu verticalement */\n      text-align: center !important; /* Centre les textes */\n    }\n\n    @media screen and (min-width: 750px) {\n      .custom-section-padding {\n        padding-top: 0 !important;\n        padding-bottom: 0 !important;\n      }\n    }\n\n    .heading__section p {\n      color: #d0e5d5 !important; /* Couleur de la marque */\n      font-size: 18px !important; /* Taille du texte de la marque */\n      font-weight: bold !important;\n      margin: 0 !important; /* Supprime les marges */\n      padding: 0 !important; /* Supprime les paddings */\n      line-height: 0.7 !important; /* Réduit l'interligne */\n    }\n\n    .heading h2 {\n      font-size: 26px !important; /* Taille du titre */\n      font-weight: 700 !important;\n      color: #000 !important; /* Couleur du titre */\n      margin: 0 !important; /* Supprime toute marge */\n      padding: 0 !important; /* Supprime tout padding */\n      line-height: 1 !important; /* Assure que le titre reste compact */\n      width: 100% !important; /* Le titre prend toute la largeur */\n    }\n\n    .separator {\n      height: 3px !important;\n      background-color: #d0e5d5 !important; /* Couleur de la barre */\n      width: 150px !important; /* Longueur de la barre */\n      margin: 10px auto !important; /* Centre la barre */\n    }\n\n    .description p {\n      font-size: 16px !important; /* Taille du texte de la description */\n      color: #555 !important;\n      margin-top: 0 !important; /* Supprime la marge en haut */\n      width: 100% !important; /* Prend toute la largeur */\n    }\n\n    /* Adaptation pour les petits écrans */\n    @media screen and (max-width: 749px) {\n      .heading__section p {\n        font-size: 16px !important; /* Taille plus petite pour petits écrans */\n        line-height: 0.5 !important; /* Réduit l'interligne */\n      }\n\n      .heading h2 {\n        font-size: 24px !important; /* Taille du titre plus petite */\n        line-height: 1 !important; /* Assure que le titre reste compact */\n        width: 95% !important; /* Largeur ajustée */\n      }\n\n      .separator {\n        width: 130px !important; /* Ajuste la longueur de la barre */\n      }\n\n      .description p {\n        font-size: 18px !important; /* Taille plus grande de la description sur mobile */\n      }\n    }\n  </style>\n\n  <div class=\"custom-section-padding\">\n    <div class=\"rich-text container container--normal\">\n      <div class=\"header\" style=\"display: block !important;\">Meowtix™</div>\n      <div class=\"subheader\" style=\"display: block !important;\">\n        <h1>Les rouleaux qui redonnent vie à vos vêtements</h1>\n      </div>\n      <div class=\"separator\"></div>\n      <span class=\"bold-text\" style=\"display: block !important;\">\n        Ne laissez plus les poils gâcher vos tenues. Découvrez la simplicité de nos rouleaux réutilisables.\n      </span>\n    </div>\n  </div>\n</section>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "text_with_icons_KQikWA": {
       "type": "text-with-icons",
       "blocks": {
@@ -861,7 +848,6 @@
   "order": [
     "slideshow",
     "rich_text_wD6DkA",
-    "custom_html_BNyzXL",
     "text_with_icons_KQikWA",
     "image-link-blocks",
     "scrolling-text",
